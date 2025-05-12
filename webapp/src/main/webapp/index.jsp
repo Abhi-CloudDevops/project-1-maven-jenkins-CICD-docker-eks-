@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for 09:00am DevOps with AWS, Azure, GCP Real time training 2025 at Naresh-IT HYDERABAD </h1>
+    <h1>New user Register for 10:3 0am DevOps with AWS, Azure, GCP Real time training 2025 at Naresh-IT HYDERABAD </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
+   <h1> Thank You, Happy Learning No Ending</h1>
+   <h1> See You Again Tommorow </h1>
   
 </form>
